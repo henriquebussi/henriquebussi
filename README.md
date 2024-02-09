@@ -1,6 +1,6 @@
 ### Eae, meu nome é Henrique xd
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebussi&layout=compact&size_weight=0.5&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquebussi&layout=compact&size_weight=0.5&theme=highcontrast)
 
 <!--
 **henriquebussi/henriquebussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
